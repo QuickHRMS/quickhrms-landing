@@ -1,3 +1,5 @@
+// This is a small change to trigger a redeploy
+
 export default function Home() {
   return (
     <main className="min-h-screen p-10 bg-white text-gray-800">
